@@ -5,6 +5,8 @@ public interface A {
 	
 	public void name();
 	
+	public void age();
+	
 	
 
 }
